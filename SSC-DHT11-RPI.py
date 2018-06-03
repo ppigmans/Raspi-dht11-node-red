@@ -1,4 +1,4 @@
-# Author = "Patrick Pigmans"
+# Author 		= 	"Patrick Pigmans"
 # Copyright Company	= 	"Shared Service Center"
 # Copyright Author	=	"Patrick Pigmans"
 # Company address	=	"Edisonweg 4A, Vlissingen, The Netherlands"
