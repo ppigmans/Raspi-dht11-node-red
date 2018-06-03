@@ -1,3 +1,10 @@
+# Author = "Patrick Pigmans"
+# Copyright Company	= 	"Shared Service Center"
+# Copyright Author	=	"Patrick Pigmans"
+# Company address	=	"Edisonweg 4A, Vlissingen, The Netherlands"
+# License	 	= 	"Public Domain"
+# Version 		= 	"1.0"
+
 import os
 import time
 import sys
@@ -56,5 +63,3 @@ except KeyboardInterrupt:
 
 client.loop_stop()
 client.disconnect()
-
-
