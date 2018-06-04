@@ -52,7 +52,7 @@ try:
 
         # Sending humidity and temperature data to ThingsBoard
         client.publish('lv', json.dumps(sensor_hum), 1)
-		client.publish('temp', json.dumps(sensor_temp), 1)
+	client.publish('temp', json.dumps(sensor_temp), 1)
 
         next_reading += INTERVAL
         sleep_time = next_reading-time.time()
